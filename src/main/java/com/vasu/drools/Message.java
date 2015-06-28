@@ -13,7 +13,7 @@ public class Message {
     }
 
     public void printMessage() {
-        System.out.println("Type type");
+        System.out.println("Type "+type);
     }
 
 	public String getMessage() {
